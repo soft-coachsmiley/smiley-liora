@@ -1,0 +1,12 @@
+{
+  "kakaka@gmail.com": {
+    "fullName": "Kaakaj ananan",
+    "email": "kakaka@gmail.com",
+    "country": "NG",
+    "phone": "08161616116",
+    "passwordSalt": "0f0432a2df5e1efe429f65d69ca11a70",
+    "passwordHash": "c38d82e162b3abeee66175bedc60e66bab1e7ed0929361b18811b40a53bb351308a0df8e23dda7ce2efa345565825b5aac0b12f45c8f1609f2ff0e46ebf3228e",
+    "profileImage": "",
+    "createdAt": "2026-11-26T04:03:24.259Z"
+  }
+}
