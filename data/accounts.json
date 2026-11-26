@@ -8,5 +8,15 @@
     "passwordHash": "c38d82e162b3abeee66175bedc60e66bab1e7ed0929361b18811b40a53bb351308a0df8e23dda7ce2efa345565825b5aac0b12f45c8f1609f2ff0e46ebf3228e",
     "profileImage": "",
     "createdAt": "2026-11-26T04:03:24.259Z"
+  },
+  "chilgosenior1@gmail.com": {
+    "fullName": "CHUKWUENYEM chidiogo",
+    "email": "chilgosenior1@gmail.com",
+    "country": "NG",
+    "phone": "09114838442",
+    "passwordSalt": "412385f9a99c54595b434d4f82dfbb2f",
+    "passwordHash": "b4f73cf45dff99c3a7c9ad624b18d8810c8de9a6565393809cb302c8bd3e412b8cee1e7b4255c28618d3e99430dcef2432859786d70ea7c0952db323b8b526e2",
+    "profileImage": "",
+    "createdAt": "2026-11-26T20:00:46.088Z"
   }
 }
